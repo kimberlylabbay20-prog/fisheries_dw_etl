@@ -1,0 +1,11 @@
+{
+  "landing_id": ["landing_id", "id", "record_id", "landing_no"],
+  "landing_date": ["landing_date", "date", "catch_date", "landing_dt", "date_landed"],
+  "port": ["port", "port_name", "landing_port", "unloading_port"],
+  "species": ["species", "species_name", "fish_species", "catch_species"],
+  "vessel_id": ["vessel_id", "vessel", "boat_id", "boat"],
+  "vessel_name": ["vessel_name", "boat_name", "ship_name"],
+  "cooperative_name": ["cooperative_name", "cooperative", "coop", "cooperative_org"],
+  "quantity_kg": ["quantity_kg", "quantity", "qty_kg", "weight_kg", "kg", "catch_kg"],
+  "value_php": ["value_php", "value", "amount_php", "total_value", "price_php", "landing_value"]
+}
