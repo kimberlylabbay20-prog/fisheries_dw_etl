@@ -1,0 +1,10 @@
+vessel_key,vessel_id,vessel_name,cooperative_name,effective_start_date,effective_end_date,is_current
+1,V001,M/V Sinar Laut,Bongao Fishers Cooperative,2020-01-01,2024-12-31,False
+4,V002,M/V Nur Asia,Bongao Fishers Cooperative,2020-01-01,9999-12-31,True
+5,V003,M/V Samudra,Sitangkai Fishers Cooperative,2020-01-01,9999-12-31,True
+6,V004,M/V Abdul Aziz,Sibutu Fishers Cooperative,2020-01-01,9999-12-31,True
+7,V005,M/V Barakah,Panglima Sugala Cooperative,2020-01-01,9999-12-31,True
+8,V006,M/V Al-Jawari,Sitangkai Fishers Cooperative,2020-01-01,9999-12-31,True
+9,V007,M/V Salsabila,Languyan Fishers Cooperative,2020-01-01,9999-12-31,True
+10,V008,M/V Al-Fajr,Bongao Fishers Cooperative,2020-01-01,9999-12-31,True
+11,V001,M/V Sinar Laut,Bongao United Cooperative,2025-01-01,9999-12-31,True
